@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chaithanya_Portfolio/static/css/main.ebde3a0a.chunk.css",
+    "main.js": "/Chaithanya_Portfolio/static/js/main.644645fc.chunk.js",
+    "main.js.map": "/Chaithanya_Portfolio/static/js/main.644645fc.chunk.js.map",
+    "runtime-main.js": "/Chaithanya_Portfolio/static/js/runtime-main.cf353c68.js",
+    "runtime-main.js.map": "/Chaithanya_Portfolio/static/js/runtime-main.cf353c68.js.map",
+    "static/js/2.895af72f.chunk.js": "/Chaithanya_Portfolio/static/js/2.895af72f.chunk.js",
+    "static/js/2.895af72f.chunk.js.map": "/Chaithanya_Portfolio/static/js/2.895af72f.chunk.js.map",
+    "index.html": "/Chaithanya_Portfolio/index.html",
+    "precache-manifest.d9e64acea2e6afd8a6ba80be7d3459e0.js": "/Chaithanya_Portfolio/precache-manifest.d9e64acea2e6afd8a6ba80be7d3459e0.js",
+    "service-worker.js": "/Chaithanya_Portfolio/service-worker.js",
+    "static/css/main.ebde3a0a.chunk.css.map": "/Chaithanya_Portfolio/static/css/main.ebde3a0a.chunk.css.map",
+    "static/js/2.895af72f.chunk.js.LICENSE.txt": "/Chaithanya_Portfolio/static/js/2.895af72f.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/Chaithanya_Portfolio/static/media/header-background.395df93f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf353c68.js",
+    "static/js/2.895af72f.chunk.js",
+    "static/css/main.ebde3a0a.chunk.css",
+    "static/js/main.644645fc.chunk.js"
+  ]
+}
